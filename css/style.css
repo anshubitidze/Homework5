@@ -1,0 +1,59 @@
+/* Header */
+
+
+.main_header{
+    margin: 0 auto;
+    width: 1440px;
+    background-color: #2A9D8F;
+    padding: 48px 130px;
+}
+
+.logo_frame{
+    border-radius: 25px;
+    display: inline-block;
+    padding: 10px 12.98px 10.48px 13px ;
+    background-color: #FFF;
+    vertical-align: middle;
+    margin-right: 357px;
+}
+
+/* navigation */
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.navigation_ul li{
+    display: inline-block;
+}
+
+.middle_nav_item{
+    margin-inline: 45px;
+}
+.active{
+    color: #FFF;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+/* navigation */
+
+.button{
+    margin-left: 356px;
+    border: #FFF;
+    padding: 8px 16px;
+    background-color: #FFF;
+    color: #2A9D8F;
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px; /* 150% */
+    letter-spacing: 0.1px;
+
+}
+
+
+/* Header */
