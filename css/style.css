@@ -95,12 +95,13 @@
 /* Article */
 
 
-/* Section */
+/* Section 1*/
 .section1{
     margin: auto;
     width: 1440px;
     padding: 80px 130px;
     background-color: #C2F3EE;
+    margin-bottom: 200px;
 
 }
 
@@ -158,6 +159,41 @@
     }
 
 
-/* section */
+/* section 1 */
 
 
+/* section 2 */
+.section2{
+    width: 1440px;
+    margin: auto;
+    padding: 0 130px;
+    margin-bottom: 200px;
+}
+.bottom_margin{
+    margin-bottom: 54px;
+}
+
+.section2_img{
+    width: 580px;
+    height: 278px;
+}
+
+.section2_card{
+    display: inline-block;
+    color: #535353;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 150% */
+    letter-spacing: 0.12px;
+
+}
+
+
+.middle_margin{
+    margin-left: 15px;
+}
+
+
+/* section 2 */
