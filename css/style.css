@@ -2,13 +2,13 @@
 
 
 .main_header{
-    margin: 0 auto;
+    margin: auto;
     width: 1440px;
     background-color: #2A9D8F;
-    padding: 48px 130px;
+    padding: 38px 130px;
 }
 
-.logo_frame{
+.main_header_logo_link{
     border-radius: 25px;
     display: inline-block;
     padding: 10px 12.98px 10.48px 13px ;
@@ -97,12 +97,10 @@
 
 /* Section 1*/
 .section1{
-    margin: auto;
     width: 1440px;
-    padding: 80px 130px;
     background-color: #C2F3EE;
-    margin-bottom: 200px;
-
+    margin: 0 auto 200px;
+    padding: 80px 130px;
 }
 
 .img_tree{
@@ -128,7 +126,6 @@
     font-weight: 500;
     line-height: 48px; /* 150% */
     letter-spacing: 0.16px;
-    display: inline-block;
     
 }
 
@@ -165,9 +162,8 @@
 /* section 2 */
 .section2{
     width: 1440px;
-    margin: auto;
+    margin: 0 auto 200px;
     padding: 0 130px;
-    margin-bottom: 200px;
 }
 .bottom_margin{
     margin-bottom: 54px;
@@ -176,6 +172,10 @@
 .section2_img{
     width: 580px;
     height: 278px;
+}
+
+.img_text{
+    margin-top: 32px;
 }
 
 .section2_card{
